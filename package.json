@@ -7,18 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
+    "url": "https://github.com/bootcamp-actions-codFac/paquete-estadistica.git"
   },
   "keywords": [],
-  "author": "Luis Beltrán",
+  "author": "Leonel Araujo",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/icebeam7/paquete-estadistica-js/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/icebeam7/paquete-estadistica-js#readme",
+  "homepage": "",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
